@@ -31,4 +31,4 @@ I've been learning to code for 1 year, after switching careers from Mechanical D
 
 <b>My LeetCode Stats</b>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/riaztat?theme=dark&font=baloo&extension=null)
+![](https://leetcard.jacoblin.cool/riaztat?ext=heatmap)

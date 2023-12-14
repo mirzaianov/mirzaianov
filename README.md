@@ -65,7 +65,7 @@ I started with HTML, CSS & JavaScript and have really found a passion for React-
 
 ### Badges
 
-**My GitHub Stats**
+#### My GitHub Stats
 
 <a href="http://www.github.com/mirzaianov">
   <img src="https://github-readme-stats.vercel.app/api?username=mirzaianov&show_icons=true&hide=stars,prs,issues,contribs&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="mirzaianov's GitHub stats" />
@@ -75,8 +75,6 @@ I started with HTML, CSS & JavaScript and have really found a passion for React-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaianov&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
-**My LeetCode Stats**
+#### My LeetCode Stats
 
 ![](https://leetcard.jacoblin.cool/riaztat?ext=heatmap)
-
-Looking forward to hearing from you!

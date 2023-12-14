@@ -28,7 +28,7 @@ I started with HTML, CSS & JavaScript and have really found a passion for React-
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   </a>
-
+<br>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
   </a>
@@ -41,7 +41,7 @@ I started with HTML, CSS & JavaScript and have really found a passion for React-
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
   </a>
-
+<br>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
   </a>
@@ -54,7 +54,7 @@ I started with HTML, CSS & JavaScript and have really found a passion for React-
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
     <img style='color:blue' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
   </a>
-
+<br>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
   </a>
@@ -64,7 +64,7 @@ I started with HTML, CSS & JavaScript and have really found a passion for React-
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
   </a>
-
+<br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
@@ -112,4 +112,3 @@ I started with HTML, CSS & JavaScript and have really found a passion for React-
 ![](https://leetcard.jacoblin.cool/riaztat?ext=heatmap)
 
 Looking forward to hearing from you!
-___

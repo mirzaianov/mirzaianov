@@ -1,8 +1,8 @@
 Hi 👋 My name is Riaz Mirzaianov
 ================================
 
-Frontend Engineer
------------------
+Frontend Developer
+------------------
 
 I've been learning to code for 1 year, after switching the career from Mechanical Design Engineering.
 I started with HTML, CSS & JavaScript and have really found a passion for React-based applications...

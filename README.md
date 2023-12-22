@@ -8,8 +8,8 @@ I've been learning to code for 1 year, after switching the career from Mechanica
 I started with HTML, CSS & JavaScript and have really found a passion for React-based applications...
 
 * 🌍  I'm based in Turkiye
-* ✉️  You can contact me at [hello@mirzaianov.com](mailto:hello@mirzaianov.com)
-* 🧠  I'm learning TypeScript, Next.js, Firebase, SQL, MongoDB
+* ✉️  You can contact me at [hello@mirzaianov.com](mailto:hello@mirzaianov.com) or [LinkedIn](https://www.linkedin.com/in/mirzaianov)
+* 🧠  I'm learning Redux, TypeScript, Next.js, Firebase, SQL, MongoDB
 * 🤝  I'm open to collaborating on an interesting projects
 * ⚡  I fluently speak English and Russian
 

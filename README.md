@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f1/69/47/f16947ca6a616349ed63771804d16250.gif" alt="Vibration" />
-</p>
+![MasterHead](https://www.pngitem.com/pimgs/m/112-1127587_software-hire-developers-hd-png-download.png)
 
 <h1 align="center">Hi 👋&nbsp;&nbsp; I'm Riaz&nbsp;&nbsp;</h1>
 <h3 align="center">A passionate Frontend Developer</h3>

@@ -1,4 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ff/62/08/ff620854b85ca2824e8e3b6b3e5d079e.gif" alt="Vibration" height="250" />
+</p>
+
+
 <h1 align="center">Hi 👋&nbsp;&nbsp; I'm Riaz&nbsp;&nbsp;</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"> -->

@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/746306/screenshots/4639102/wave_sound.gif" alt="Vibration" />
-</p>
+![MasterHead](https://cdn.dribbble.com/users/746306/screenshots/4639102/wave_sound.gif)
 
 <h1 align="center">Hi 👋&nbsp;&nbsp; I'm Riaz&nbsp;&nbsp;</h1>
 <h3 align="center">A passionate Frontend Developer</h3>

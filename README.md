@@ -1,34 +1,35 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-
-<h1 align="center">Hi 👋&nbsp;&nbsp; I'm Riaz</h1>
-<h2 align="center">A passionate Frontend Developer</h2>
+![MasterHead](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)
+<h1 align="center">Hi 👋&nbsp;&nbsp; I'm Riaz&nbsp;&nbsp;</h1>
+<h3 align="center">A passionate Frontend Developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"> -->
-
 <p align="center">
   I've been learning to code for 1 year, after switching the career from Mechanical Design Engineering.
   I started with HTML, CSS & JavaScript and have really found a passion for React-based applications...
 </p>
-
 <ul align="left">
   <li>
-    🌍  I'm based in Turkiye
+    🔭  I’m currently working on something cool 😉
   </li>
   <li>
-    ✉️  You can contact me at <a href="mailto:hello@mirzaianov.com">hello@mirzaianov.com</a>  or <a href="https://www.linkedin.com/in/mirzaianov">LinkedIn</a>
+    🌱  I'm learning Redux, TypeScript, Next.js, Firebase, SQL, MongoDB
   </li>
   <li>
-    🧠  I'm learning Redux, TypeScript, Next.js, Firebase, SQL, MongoDB
+    💬  I fluently speak English and Russian
   </li>
   <li>
     🤝  I'm open to collaborating on interesting projects
   </li>
   <li>
-    ⚡  I fluently speak English and Russian
+    ✉️  You can contact me at <a href="mailto:hello@mirzaianov.com">hello@mirzaianov.com</a>  or <a href="https://www.linkedin.com/in/mirzaianov">LinkedIn</a>
+  </li>
+  <li>
+    🌍  I'm based in Turkiye
+  </li>
+  <li>
+    ⚡  Fun fact: I have a category in chess
   </li>
 </ul>
-
-<h2 align="center">Skills</h2>
-
+<h3 align="center">Tech Stack</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -51,21 +52,15 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-
-<h2 align="center">Badges</h2>
-
-<h3 align="center">My GitHub Stats</h3>
-
+<h3 align="center">Badges</h3>
+<!-- <h4 align="center">My GitHub Stats</h4> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaianov&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="My Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mirzaianov&theme=tokyonight&hide_border=true&border_radius=20" alt="My GitHub streak" >
 </p>
-
-<h3 align="center">My Leetcode Stats</h3>
-
+<!-- <h4 align="center">My Leetcode Stats</h4> -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/riaztat?ext=heatmap" alt="My Leetcode Stats" >
 </p>

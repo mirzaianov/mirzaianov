@@ -1,21 +1,35 @@
-Hi 👋 My name is Riaz Mirzaianov
-================================
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
-Frontend Developer
-------------------
+<h1 align="center">Hi 👋, I'm Riaz</h1>
+<h3 align="center">A passionate Frontend Developer</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"> -->
 
-I've been learning to code for 1 year, after switching the career from Mechanical Design Engineering.
-I started with HTML, CSS & JavaScript and have really found a passion for React-based applications...
+<p align="center">
+  I've been learning to code for 1 year, after switching the career from Mechanical Design Engineering.
+  I started with HTML, CSS & JavaScript and have really found a passion for React-based applications...
+</p>
 
-* 🌍  I'm based in Turkiye
-* ✉️  You can contact me at [hello@mirzaianov.com](mailto:hello@mirzaianov.com) or [LinkedIn](https://www.linkedin.com/in/mirzaianov)
-* 🧠  I'm learning Redux, TypeScript, Next.js, Firebase, SQL, MongoDB
-* 🤝  I'm open to collaborating on an interesting projects
-* ⚡  I fluently speak English and Russian
+<ul align="left">
+  <li>
+    🌍  I'm based in Turkiye
+  </li>
+  <li>
+    ✉️  You can contact me at <a href="mailto:hello@mirzaianov.com">hello@mirzaianov.com</a>  or <a href="https://www.linkedin.com/in/mirzaianov">LinkedIn</a>
+  </li>
+  <li>
+    🧠  I'm learning Redux, TypeScript, Next.js, Firebase, SQL, MongoDB
+  </li>
+  <li>
+    🤝  I'm open to collaborating on **interesting projects**
+  </li>
+  <li>
+    ⚡  I fluently speak English and Russian
+  </li>
+</ul>
 
-### Skills
+<h3 align="center">Skills</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -44,9 +58,9 @@ I started with HTML, CSS & JavaScript and have really found a passion for React-
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-### Socials
+<h3 align="center">Socials</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.github.com/mirzaianov" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -63,18 +77,20 @@ I started with HTML, CSS & JavaScript and have really found a passion for React-
   </a>
 </p>
 
-### Badges
+<h3 align="center">Badges</h3>
 
-#### My GitHub Stats
+<h4 align="center">My GitHub Stats</h4>
 
-<a href="http://www.github.com/mirzaianov">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirzaianov&show_icons=true&hide=stars,prs,issues,contribs&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="mirzaianov's GitHub stats" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaianov&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="My Top Languages" />
+</p>
 
-<a href="http://www.github.com/mirzaianov">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaianov&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mirzaianov&theme=tokyonight&hide_border=true&border_radius=20" alt="My GitHub streak" >
+</p>
 
-#### My LeetCode Stats
+<h4 align="center">My Leetcode Stats</h4>
 
-![](https://leetcard.jacoblin.cool/riaztat?ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/riaztat?ext=heatmap" alt="My Leetcode Stats" >
+</p>

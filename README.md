@@ -1,6 +1,6 @@
 ![MasterHead](https://onedrive.live.com/embed?resid=89964ae9969a4404%21823697&authkey=%21AI5h0CzA4yO_EDg&width=1584&height=396)
 
-<p align="center">
+<p align="left">
   I've been learning to code for 1 year, after switching the career from Mechanical Design Engineering.<br>
   I started with HTML, CSS & JavaScript and have really found a passion for React-based applications.<br>
   As a Junior Frontend Developer, I'm passionate about creating engaging interfaces with cutting-edge web technologies. <br>

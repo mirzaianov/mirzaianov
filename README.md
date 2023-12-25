@@ -1,4 +1,4 @@
-![MasterHead](https://onedrive.live.com/embed?resid=89964ae9969a4404%21823695&authkey=%21APhCG9Nlz0MQitE&width=1584&height=396)
+![MasterHead](https://onedrive.live.com/embed?resid=89964ae9969a4404%21823696&authkey=%21ABr4DaHDv15mL6E&width=1584&height=396)
 
 <h1 align="center">Hi 👋&nbsp;&nbsp; I'm Riaz&nbsp;&nbsp;</h1>
 <h3 align="center">A passionate Frontend Developer</h3>

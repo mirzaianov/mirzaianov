@@ -1,4 +1,4 @@
-![MasterHead](https://www.pngitem.com/pimgs/m/112-1127587_software-hire-developers-hd-png-download.png)
+![MasterHead](https://onedrive.live.com/embed?resid=89964ae9969a4404%21823695&authkey=%21APhCG9Nlz0MQitE&width=1584&height=396)
 
 <h1 align="center">Hi 👋&nbsp;&nbsp; I'm Riaz&nbsp;&nbsp;</h1>
 <h3 align="center">A passionate Frontend Developer</h3>

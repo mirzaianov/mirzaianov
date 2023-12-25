@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ff/62/08/ff620854b85ca2824e8e3b6b3e5d079e.gif" alt="Vibration" />
+  <img src="https://cdn.dribbble.com/users/746306/screenshots/4639102/wave_sound.gif" alt="Vibration" />
 </p>
-
 
 <h1 align="center">Hi 👋&nbsp;&nbsp; I'm Riaz&nbsp;&nbsp;</h1>
 <h3 align="center">A passionate Frontend Developer</h3>

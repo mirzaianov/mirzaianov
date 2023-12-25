@@ -1,4 +1,6 @@
-![MasterHead](https://cdn.dribbble.com/users/746306/screenshots/4639102/wave_sound.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f1/69/47/f16947ca6a616349ed63771804d16250.gif" alt="Vibration" />
+</p>
 
 <h1 align="center">Hi 👋&nbsp;&nbsp; I'm Riaz&nbsp;&nbsp;</h1>
 <h3 align="center">A passionate Frontend Developer</h3>

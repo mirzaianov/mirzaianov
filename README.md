@@ -1,11 +1,11 @@
-![MasterHead](https://onedrive.live.com/embed?resid=89964ae9969a4404%21823696&authkey=%21ABr4DaHDv15mL6E&width=1584&height=396)
+![MasterHead](https://onedrive.live.com/embed?resid=89964ae9969a4404%21823697&authkey=%21AI5h0CzA4yO_EDg&width=1584&height=396)
 
-<h1 align="center">Hi 👋&nbsp;&nbsp; I'm Riaz&nbsp;&nbsp;</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"> -->
 <p align="center">
-  I've been learning to code for 1 year, after switching the career from Mechanical Design Engineering.
-  I started with HTML, CSS & JavaScript and have really found a passion for React-based applications...
+  I've been learning to code for 1 year, after switching the career from Mechanical Design Engineering.<br>
+  I started with HTML, CSS & JavaScript and have really found a passion for React-based applications.<br>
+  As a Junior Frontend Developer, I'm passionate about creating engaging interfaces with cutting-edge web technologies. <br>
+  I meticulously blend aesthetics and functionality, driven by a keen eye for detail. <br>
+  Continuously evolving in the dynamic realm of frontend development is where I find my stride.
 </p>
 <ul align="left">
   <li>

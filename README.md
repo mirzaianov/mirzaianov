@@ -60,7 +60,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mirzaianov&theme=tokyonight&hide_border=true&border_radius=20" alt="My GitHub streak" >
 </p>
-<!-- <h4 align="center">My Leetcode Stats</h4> -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/riaztat?ext=heatmap" alt="My Leetcode Stats" >
 </p>

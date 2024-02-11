@@ -1,7 +1,7 @@
 ![MasterHead](https://onedrive.live.com/embed?resid=89964ae9969a4404%21823700&authkey=%21ABmLp_eomRlPIdY&width=1584&height=396)
 
 <p align="left">
-  I've been learning to code for 1 year, after switching the career from Mechanical Design Engineering.<br>
+  I've been learning to code for 1.5 years, after switching the career from Mechanical Design Engineering.<br>
   I started with HTML, CSS & JavaScript and have really found a passion for React-based applications.<br>
   As a Junior Frontend Developer, I'm passionate about creating engaging interfaces with cutting-edge web technologies. <br>
   I meticulously blend aesthetics and functionality, driven by a keen eye for detail. <br>

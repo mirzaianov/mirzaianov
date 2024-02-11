@@ -2,10 +2,10 @@
 
 <p align="left">
   I've been coding for 1.5 years, after switching the career from Mechanical Design Engineering.<br>
-  I started with HTML, CSS & JavaScript and have really found a passion for React-based applications.<br>
+  I started with HTML, CSS & JavaScript and have really found excitement in React-based applications.<br>
   As a Frontend Developer, I'm passionate about creating engaging interfaces with cutting-edge web technologies. <br>
   I meticulously blend aesthetics and functionality, driven by a keen eye for detail. <br>
-  Continuously evolving in the dynamic realm of frontend development is where I find my stride.
+  My aim is to continuously evolve in the dynamic realm of frontend development.
 </p>
 <ul align="left">
   <li>

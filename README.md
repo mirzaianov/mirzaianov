@@ -15,7 +15,7 @@
     🌱  I'm learning Redux, TypeScript, Next.js, Firebase, SQL, MongoDB
   </li>
   <li>
-    💬  I fluently speak English and Russian
+    💬  I fluently speak English and Russian, know some Turkish
   </li>
   <li>
     🤝  I'm open to collaborating on interesting projects

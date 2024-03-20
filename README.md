@@ -1,16 +1,15 @@
 ![MasterHead](https://onedrive.live.com/embed?resid=89964ae9969a4404%21839389&authkey=%21AOFFq2VaHmDOD4Y&width=1584&height=396)
 
 <p align="left">
+  Higher technical education (GPA 4.2), advanced English (C1), vast experience of working in an international cross-functional team.<br>
   I've been coding for 1.5 years, after switching the career from Mechanical Design Engineering.<br>
-  I started with HTML, CSS & JavaScript and I have really found joy in building React-based applications.<br>
-  As a Frontend Developer, I'm passionate about creating eye-catching interfaces with cutting-edge web technologies.<br>
-  I meticulously blend aesthetics and functionality, driven by a keen eye for detail.<br>
-  My aim is to continuously evolve in the dynamic realm of frontend development.
+  Started with HTML, CSS & JavaScript and later found joy in building React-based apps.<br>
+  I am solid in Algorithms, have skills in Figma.<br>
+  I'm eager to create eye-catching interfaces with cutting-edge web technologies.<br>
+  I am focused on blending aesthetics and functionality, driven by a keen eye for detail.<br>
+  My aim for the nearest future is to continuously evolve in the dynamic realm of modern Frontend Development.<br>
 </p>
 <ul align="left">
-  <li>
-    🔭  I’m currently working on something cool 😉
-  </li>
   <li>
     🌱  I'm learning Redux, TypeScript, Next.js, Firebase, SQL, MongoDB
   </li>

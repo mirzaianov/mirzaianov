@@ -1,4 +1,4 @@
-![MasterHead](https://onedrive.live.com/embed?resid=89964ae9969a4404%21839389&authkey=%21AOFFq2VaHmDOD4Y&width=1584&height=396)
+![MasterHead](./head.png)
 
 <p align="left">
   Higher technical education (GPA 4.2), advanced English (C1), vast experience of working in an international cross-functional team.<br>

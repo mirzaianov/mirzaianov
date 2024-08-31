@@ -1,34 +1,19 @@
 ![MasterHead](./head.png)
 
-<p align="left">
-  Higher technical education (GPA 4.2), advanced English (C1), vast experience of working in an international cross-functional team.<br>
-  I've been coding for 1.5 years, after switching the career from Mechanical Design Engineering.<br>
-  Started with HTML, CSS & JavaScript and later found joy in building React-based apps.<br>
-  I am solid in Algorithms, have skills in Figma.<br>
-  I'm eager to create eye-catching interfaces with cutting-edge web technologies.<br>
-  I am focused on blending aesthetics and functionality, driven by a keen eye for detail.<br>
-  My aim for the nearest future is to continuously evolve in the dynamic realm of modern Frontend Development.<br>
-</p>
-<ul align="left">
-  <li>
-    🌱  I'm learning Redux, TypeScript, Next.js, Astro, Firebase, SQL, MongoDB
-  </li>
-  <li>
-    💬  I fluently speak English and Russian, know some Turkish
-  </li>
-  <li>
-    🤝  I'm open to collaborating on interesting projects
-  </li>
-  <li>
-    ✉️  You can contact me at <a href="mailto:hello@mirzaianov.com">hello@mirzaianov.com</a>  or <a href="https://www.linkedin.com/in/mirzaianov">LinkedIn</a>
-  </li>
-  <li>
-    🌍  I'm based in Turkiye
-  </li>
-  <li>
-    ⚡  Fun fact: I have a category in chess
-  </li>
-</ul>
+
+🚀 1.5 years in Frontend Development, Higher technical education (GPA 4.2), Collaboration in international cross-functional teams</br>
+⚒️ Technology Stack: HTML, CSS, JavaScript, React, TypeScript, Tailwind</br>
+🌱 Learning: Redux, Next.js, Astro, Firebase, SQL, MongoDB</br>
+🤖 Solid in Algorithms and DSA, have skills in Figma</br>
+💬 Fluently speak English, Russian & Tatar, know some Turkish</br>
+🧑🏻‍💻 Eager to create eye-catching interfaces with cutting-edge web technologies</br>
+🎯 Focused on blending aesthetics and functionality, driven by a keen eye for detail</br>
+📈 Goal for the nearest future is to continuously evolve in the realm of modern Frontend Development</br>
+🤝 Open to collaborating on interesting projects</br>
+✉️ You can contact me at <a href="mailto:hello@mirzaianov.com">hello@mirzaianov.com</a> or <a href="https://www.linkedin.com/in/mirzaianov">LinkedIn</a></br>
+🌍 I'm based in Turkiye</br>
+⚡ Fun fact: I have a category in chess</br>
+
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>

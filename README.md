@@ -1,5 +1,7 @@
 ![MasterHead](./head.png)
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mirzaianov)
+
 
 🚀 1.5 years in Frontend Development, Higher technical education (GPA 4.2), Collaboration in international cross-functional teams</br>
 ⚒️ Technology Stack: HTML, CSS, JavaScript, React, TypeScript, Tailwind</br>

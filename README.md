@@ -3,17 +3,17 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mirzaianov)
 
 
-🚀 1.5 years in Frontend Development, Higher technical education (GPA 4.2), Collaboration in international cross-functional teams</br>
-⚒️ Technology Stack: HTML, CSS, JavaScript, React, TypeScript, Tailwind</br>
-🌱 Learning: Redux, Next.js, Astro, Firebase, SQL, MongoDB</br>
-🤖 Solid in Algorithms and DSA, have skills in Figma</br>
+🚀 1.5+ years in Frontend Development, Higher technical education (GPA 4.2), collaboration in international cross-functional teams</br>
+⚒️ Technology Stack: HTML, CSS, JavaScript, React, Next, Redux, TypeScript, Tailwind</br>
+🌱 Learning: Astro, Firebase, SQL, MongoDB</br>
+🤖 Solid in Algorithms and DSA, skilled in Figma Design, proficient in Git & Jira</br>
 💬 Fluently speak English, Russian & Tatar, know some Turkish</br>
 🧑🏻‍💻 Eager to create eye-catching interfaces with cutting-edge web technologies</br>
 🎯 Focused on blending aesthetics and functionality, driven by a keen eye for detail</br>
 📈 Goal for the nearest future is to continuously evolve in the realm of modern Frontend Development</br>
-🤝 Open to collaborating on interesting projects</br>
-✉️ You can contact me at <a href="mailto:hello@mirzaianov.com">hello@mirzaianov.com</a> or <a href="https://www.linkedin.com/in/mirzaianov">LinkedIn</a></br>
-🌍 I'm based in Turkiye</br>
+🤝 Always open to collaborating on interesting projects</br>
+✉️ Visit my <a href="https://www.mirzaianov.com/">website</a>, shoot a dm in <a href="https://t.me/mirzaianov">Telegram</a> or contact via <a href="mailto:hello@mirzaianov.com">Email</a></br>
+🌍 I'm based in Novi Sad, Serbia</br>
 ⚡ Fun fact: I have a category in chess</br>
 
 <h3 align="center">Tech Stack</h3>

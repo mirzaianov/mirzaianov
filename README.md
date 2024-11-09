@@ -12,7 +12,7 @@
 🎯 Focused on blending aesthetics and functionality, driven by a keen eye for detail</br>
 📈 Goal for the nearest future is to continuously evolve in the realm of modern Frontend Development</br>
 🤝 Always open to collaborating on interesting projects</br>
-✉️ Visit my <a href="https://www.mirzaianov.com/">website</a>, shoot a dm in <a href="https://t.me/mirzaianov">Telegram</a> or contact via <a href="mailto:hello@mirzaianov.com">Email</a></br>
+✉️ Visit my <a href="https://www.mirzaianov.com/">Website</a>, shoot a dm in <a href="https://t.me/mirzaianov">Telegram</a> or contact via <a href="mailto:hello@mirzaianov.com">Email</a></br>
 🌍 I'm based in Novi Sad, Serbia</br>
 ⚡ Fun fact: I have a category in chess</br>
 

@@ -2,9 +2,8 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mirzaianov)
 
-
-🚀 1.5+ years in Frontend Development, Higher technical education (GPA 4.2), collaboration in international cross-functional teams</br>
-⚒️ Technology Stack: HTML, CSS, JavaScript, React, Next, Redux, TypeScript, Tailwind</br>
+🚀 1.5+ years in Frontend Development, Higher technical education (GPA 4.2), Collaboration in international cross-functional teams</br>
+⚒️ Technology Stack: HTML, CSS, JavaScript, React, Next, Redux, TypeScript, Tailwind, Vitest / Testing Library</br>
 🌱 Learning: Astro, Firebase, SQL, MongoDB</br>
 🤖 Solid in Algorithms and DSA, skilled in Figma Design, proficient in Git & Jira</br>
 💬 Fluently speak English, Russian & Tatar, know some Turkish</br>
@@ -12,7 +11,7 @@
 🎯 Focused on blending aesthetics and functionality, driven by a keen eye for detail</br>
 📈 Goal for the nearest future is to continuously evolve in the realm of modern Frontend Development</br>
 🤝 Always open to collaborating on interesting projects</br>
-✉️ Visit my <a href="https://www.mirzaianov.com/">Website</a>, shoot a dm in <a href="https://t.me/mirzaianov">Telegram</a> or contact via <a href="mailto:hello@mirzaianov.com">Email</a></br>
+✉️ Visit my [Website](https://www.mirzaianov.com/), shoot a dm in [Telegram](https://t.me/mirzaianov) or contact via [Email](mailto:hello@mirzaianov.com)</br>
 🌍 I'm based in Novi Sad, Serbia</br>
 ⚡ Fun fact: I have a category in chess</br>
 
@@ -30,12 +29,17 @@
   <br>
   <br>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://vitest.dev/logo.svg" width="36" height="36" alt="Vitest" /></a>
+  <a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-64x64.png" width="36" height="36" alt="Testing Library" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="36" height="36" alt="Jira" /></a>
+  <br>
+  <br>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>

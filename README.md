@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaianov&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=6" alt="My Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mirzaianov&theme=tokyonight&hide_border=true&border_radius=20" alt="My GitHub streak" >
+  <img src="https://streak-stats.demolab.com/?user=mirzaianov&theme=tokyonight&hide_border=true&border_radius=20" alt="My GitHub streak" >
 </p>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mirzaianov?ext=heatmap" alt="My Leetcode Stats" >

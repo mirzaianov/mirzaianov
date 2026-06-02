@@ -29,6 +29,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mirzaianov&theme=tokyonight&hide_border=true&border_radius=20" alt="My GitHub streak" >
 </p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mirzaianov?ext=heatmap" alt="My Leetcode Stats" >
-</p>

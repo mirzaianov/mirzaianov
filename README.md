@@ -23,8 +23,9 @@
 
 <p align="center"><img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb&theme=dark" alt="Firebase, MySQL, MongoDB" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=wordpress,figma,ps&theme=dark" alt="WordPress, Figma, Photoshop" /></p>
 <h3 align="center">Badges</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaianov&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=6" alt="My Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mirzaianov&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=6" alt="Most Used Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mirzaianov&theme=tokyonight&hide_border=true&border_radius=20" alt="My GitHub streak" >

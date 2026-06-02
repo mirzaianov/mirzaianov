@@ -12,7 +12,7 @@
 📈 Goal for the nearest future is to continuously evolve in the realm of modern Frontend Development</br>
 🤝 Always open to collaborating on interesting projects</br>
 ✉️ Visit my [Website](https://www.mirzaianov.com/), shoot a dm in [Telegram](https://t.me/mirzaianov) or contact via [Email](mailto:hello@mirzaianov.com)</br>
-🌍 I'm based in Novi Sad, Serbia</br>
+🌍 I'm based in Bursa, Türkiye</br>
 ⚡ Fun fact: I have a category in chess</br>
 
 <h3 align="center">Tech Stack</h3>
